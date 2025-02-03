@@ -1,4 +1,4 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+// El principal objetivo es crear un javascript que permita recibir nombres, mostrarlos en la pantalla y seleccionar a uno de ellos por sorteo.
 let amigos=[];
 
 function agregarAmigo(){
@@ -34,7 +34,6 @@ function sortearAmigo(){
         amigoSorteado=amigos[numeroGenerado];
         resultado=document.getElementById('resultado');
         resultado.innerHTML=`El amigo sorteado es: ${amigoSorteado}`;
-
     }
     
 }
