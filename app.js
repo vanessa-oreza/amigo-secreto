@@ -37,3 +37,10 @@ function sortearAmigo(){
     }
     
 }
+
+// Detectar cuando se presiona la tecla Enter en el campo de texto
+document.getElementById('amigo').addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+        agregarAmigo();  // Llamar a la función para hacer el sorteo cuando se presiona Enter
+    }
+});
