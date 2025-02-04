@@ -1,4 +1,4 @@
-<h1 align= "Center">Amigo secreto</h1>
+<h1 align= "Center">🎉Amigo secreto🤫</h1>
 
 **Descripción:**
 
@@ -10,7 +10,6 @@ El objetivo de esta página es permitir a los usuarios ingresar una lista de nom
 
 ## Cómo usar
 ![20250203_142328](https://github.com/user-attachments/assets/2a5f32f8-ca5e-4c78-a265-a90f412c3008)
-
 1. Ingresa cada nombre y haz clic en añadir, uno a la vez.
 2. Haz clic en el botón para realizar el sorteo.
 3. El sistema seleccionará un nombre aleatorio y lo mostrará como el "Amigo Secreto" sorteado.
@@ -38,8 +37,8 @@ Recursos de internet que me ayudaron:
 
 
 🚧 Próximas modificaciones 🚧
-- Arreglo del README
-- Ajuste del código para que sea más interesante la dinámica del amigo secreto:que no se repita si sorteamos varias veces.
+- Ajuste del código para que sea más interesante la dinámica del amigo secreto: que no se repita si sorteamos varias veces o que asigne amigos secretos entre los amigos añadidos.
 
 ## Versión
-1.0 3 de febrero de 2024
+1.0 al 3 de febrero de 2024
+
