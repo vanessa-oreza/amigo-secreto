@@ -2,11 +2,7 @@
 
 **Descripción:**
 
-"Amigo Secreto" es una aplicación web que permite ingresar los nombres de varios amigos y luego seleccionar uno de ellos de manera aleatoria.
-
-**Objetivo:**
-
-El objetivo de esta página es permitir a los usuarios ingresar una lista de nombres y, al hacer clic en un botón, elegir un nombre aleatorio para sortear al "Amigo Secreto".
+"Amigo Secreto" es una aplicación web que permite ingresar los nombres de varios amigos y luego seleccionar uno de ellos de manera aleatoria. Está pensado para eventos espontáneos, como una pequeña reunión o salida con amigos, donde se quiera decidir a quién se le asigna un regalo o tarea de manera rápida, sin necesidad de relaciones de asignación completas.
 
 ## Cómo usar
 ![20250203_142328](https://github.com/user-attachments/assets/2a5f32f8-ca5e-4c78-a265-a90f412c3008)
